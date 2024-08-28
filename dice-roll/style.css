@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+}
+
+.dice {
+    font-size: 7rem;
+    margin: 5px;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+button {
+    border: none;
+    color: #fff;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    background-color: #47a5c4;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2e8baf;
+}
