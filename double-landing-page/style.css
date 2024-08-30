@@ -1,0 +1,65 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 35px;
+    color: #fff;
+    letter-spacing: 4px;
+    padding: 15px 10px;
+    background-color: #1c1111;
+}
+
+.split {
+    width: 50%;
+    height: 100%;
+    top: 0%;
+    overflow: hidden;
+}
+
+.split.left {
+    position: absolute;
+    left: 0;
+    background-color: #ffc0cb;
+    background-image: url("https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000");
+    background-size: cover;
+}
+
+.split.right {
+    position: absolute;
+    right: 0;
+    background-color: #add8e6;
+    background-image: url("https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6465/6465022_sd.jpg;maxHeight=640;maxWidth=550");
+    background-size: cover;
+}
+
+
+.active-left .left {
+    width: 75%;
+}
+
+.active-left .right {
+    width: 25%;
+}
+
+.active-right .left {
+    width: 25%;
+}
+
+.active-right .right {
+    width: 75%;
+}
+
+.left, .right {
+    transition: width 2s ease-in-out;
+}
