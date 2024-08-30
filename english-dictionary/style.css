@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f1f5f8;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    padding: 28px;
+    border-radius: 7px;
+    width: 90%;
+    margin: 10px;
+    max-width: 450px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    gap: 10px;
+}
+
+.heading {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.input {
+    height: 50px;
+    width: 100%;
+    max-width: 350px;
+    font-size: 18px;
+    padding: 0 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.input:focus {
+    border-color: #007bff;
+}
+
+.text {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.meaning {
+    display: none;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.meaning p {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.meaning .title {
+    font-weight: bold;
+    font-size: 20px;
+    color: #007bff;
+}
+
+.meaning .means {
+    font-style: italic;
+    color: #555;
+}
+
+audio {
+    margin-top: 15px;
+    width: 100%;
+    max-width: 300px;
+    outline: none;
+}
+
+@media (max-width: 480px) {
+    .heading {
+        font-size: 24px;
+    }
+
+    .input {
+        font-size: 16px;
+        height: 45px;
+        padding: 0 10px;
+    }
+
+    .meaning p {
+        font-size: 16px;
+    }
+
+    audio {
+        max-width: 100%;
+    }
+}
