@@ -5,18 +5,18 @@
 This repository contains a variety of beginner-to-intermediate-level web development projects. Each project demonstrates the use of HTML for structure, CSS for styling, and JavaScript for interactivity. These projects are designed to help improve your coding skills and serve as a foundation for creating more advanced applications in the future.
 
 100 mini web projects list
-|  #  | Project                                                                                                                     |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Age Calculator](https://github.com/whyyali/html-css-javascript-projects/tree/main/age-calculator)                          |
-| 02  | [Animated Loader](https://github.com/whyyali/html-css-javascript-projects/tree/main/animated-loader)                          |
-| 03  | [Animated Search Bar](https://github.com/whyyali/html-css-javascript-projects/tree/main/animated-search-bar)                          |
-| 04  | [Anime Pic Generator](https://github.com/whyyali/html-css-javascript-projects/tree/main/anime-pics-generator)                          |
-| 05  | [Auto Incrementing Counter](https://github.com/whyyali/html-css-javascript-projects/tree/main/auto-incrementing-counter)                          |
-| 06  | [Auto Text Effect Animation](https://github.com/whyyali/html-css-javascript-projects/tree/main/auto-text-effect-animation)                          |
-| 07  | [Auto Text Effect](https://github.com/whyyali/html-css-javascript-projects/tree/main/auto-text-effect)                          |
-| 08  | [Background Image Scroll Effect](https://github.com/whyyali/html-css-javascript-projects/tree/main/background-img-scroll-effect)                          |
-| 09  | [Background SVG](https://github.com/whyyali/html-css-javascript-projects/tree/main/background-svg)                          |
-| 10  | [Background Vedio](https://github.com/whyyali/html-css-javascript-projects/tree/main/background-video)                          |
+|  #  | Project                                                                                                                     | Readme                                                                                                                     |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Age Calculator](https://github.com/alecodify/html-css-javascript-projects/tree/main/age-calculator)  | [Details](https://github.com/alecodify/html-css-javascript-projects/tree/main/age-calculator/readme.md)                          |
+| 02  | [Animated Loader](https://github.com/alecodify/html-css-javascript-projects/tree/main/animated-loader)  |
+| 03  | [Animated Search Bar](https://github.com/alecodify/html-css-javascript-projects/tree/main/animated-search-bar)                          |
+| 04  | [Anime Pic Generator](https://github.com/alecodify/html-css-javascript-projects/tree/main/anime-pics-generator)                          |
+| 05  | [Auto Incrementing Counter](https://github.com/alecodify/html-css-javascript-projects/tree/main/auto-incrementing-counter)                          |
+| 06  | [Auto Text Effect Animation](https://github.com/alecodify/html-css-javascript-projects/tree/main/auto-text-effect-animation)                          |
+| 07  | [Auto Text Effect](https://github.com/alecodify/html-css-javascript-projects/tree/main/auto-text-effect)                          |
+| 08  | [Background Image Scroll Effect](https://github.com/alecodify/html-css-javascript-projects/tree/main/background-img-scroll-effect)                          |
+| 09  | [Background SVG](https://github.com/alecodify/html-css-javascript-projects/tree/main/background-svg)                          |
+| 10  | [Background Vedio](https://github.com/alecodify/html-css-javascript-projects/tree/main/background-video)                          |
 | 11  | [Basic Calculator](https://github.com/alecodify/html-css-javascript-projects/tree/main/basic-calculator)                          |
 | 12  | [Background Slider](https://github.com/alecodify/html-css-javascript-projects/tree/main/bg-slider)                          |
 | 13  | [Blurred Background Popup](https://github.com/alecodify/html-css-javascript-projects/tree/main/blurred-bg-popup)                          |
