@@ -1,7 +1,7 @@
 const playlist = [
-    { title: "Song 1", src: "songs/song1.m4a" },
-    { title: "Song 2", src: "songs/song2.m4a" },
-    { title: "Song 3", src: "songs/song3.m4a" },
+    { title: "Song 1", src: "songs/song1.mp4" },
+    { title: "Song 2", src: "songs/song2.mp4" },
+    { title: "Song 3", src: "songs/song3.mp4" },
 ];
 
 const links = document.querySelectorAll('.playlist-item a');
